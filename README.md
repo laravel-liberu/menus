@@ -6,7 +6,7 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/menus/downloads)](https://packagist.org/packages/laravel-enso/menus)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/menus/version)](https://packagist.org/packages/laravel-enso/menus)
 
-Menu Manager dependency for [Laravel Enso](https://github.com/laravel-enso/Enso)
+Menu Manager dependency for [Laravel Liberu](https://github.com/laravel-enso/Liberu)
 
 [![Watch the demo](https://laravel-enso.github.io/menus/screenshots/bulma_012_thumb.png)](https://laravel-enso.github.io/menus/videos/bulma_menu_management.webm)
 

@@ -1,31 +1,31 @@
 {
-    "name": "cgdsoftware/menus",
+    "name": "laravel-liberu/menus",
     "description": "Menu Manager dependency for Laravel Enso",
     "keywords": [
-        "cgdsoftware",
+        "laravel-liberu",
         "menus",
         "menu-manager",
         "breadcrumbs",
         "laravel-menu"
     ],
-    "homepage": "https://github.com/cgdsoftware/Menus",
+    "homepage": "https://github.com/laravel-liberu/Menus",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://cgdsoftware.com",
+            "homepage": "https://laravel-liberu.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "cgdsoftware/core": "^8.0",
-        "cgdsoftware/forms": "^4.0",
-        "cgdsoftware/migrator": "^2.0",
-        "cgdsoftware/permissions": "^5.0",
-        "cgdsoftware/roles": "^5.0",
-        "cgdsoftware/tables": "^4.0"
+        "laravel-liberu/core": "^8.0",
+        "laravel-liberu/forms": "^4.0",
+        "laravel-liberu/migrator": "^2.0",
+        "laravel-liberu/permissions": "^5.0",
+        "laravel-liberu/roles": "^5.0",
+        "laravel-liberu/tables": "^4.0"
     },
     "autoload": {
         "psr-4": {
