@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Menus\Http\Controllers;
+namespace LaravelLiberu\Menus\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Menus\Forms\Builders\Menu as Form;
-use LaravelEnso\Menus\Models\Menu;
+use LaravelLiberu\Menus\Forms\Builders\Menu as Form;
+use LaravelLiberu\Menus\Models\Menu;
 
 class Edit extends Controller
 {

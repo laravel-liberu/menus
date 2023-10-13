@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Menus\Services;
+namespace LaravelLiberu\Menus\Services;
 
-use LaravelEnso\Helpers\Services\Obj;
-use LaravelEnso\Menus\Models\Menu;
+use LaravelLiberu\Helpers\Services\Obj;
+use LaravelLiberu\Menus\Models\Menu;
 
 class Organizer
 {

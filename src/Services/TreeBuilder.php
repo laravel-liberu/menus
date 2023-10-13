@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelEnso\Menus\Services;
+namespace LaravelLiberu\Menus\Services;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Str;
-use LaravelEnso\Menus\Models\Menu;
+use LaravelLiberu\Menus\Models\Menu;
 
 class TreeBuilder
 {

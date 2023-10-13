@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Menus\Http\Controllers;
+namespace LaravelLiberu\Menus\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Menus\Forms\Builders\Menu;
+use LaravelLiberu\Menus\Forms\Builders\Menu;
 
 class Create extends Controller
 {

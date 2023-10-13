@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Menus\Http\Controllers;
+namespace LaravelLiberu\Menus\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Menus\Http\Requests\ValidateMenu;
-use LaravelEnso\Menus\Models\Menu;
+use LaravelLiberu\Menus\Http\Requests\ValidateMenu;
+use LaravelLiberu\Menus\Models\Menu;
 
 class Update extends Controller
 {

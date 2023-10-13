@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Menus;
+namespace LaravelLiberu\Menus;
 
 use Illuminate\Support\ServiceProvider;
 

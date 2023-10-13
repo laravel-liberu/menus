@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Menus\Exceptions;
+namespace LaravelLiberu\Menus\Exceptions;
 
 use Symfony\Component\HttpKernel\Exception\ConflictHttpException;
 

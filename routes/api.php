@@ -1,15 +1,15 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use LaravelEnso\Menus\Http\Controllers\Create;
-use LaravelEnso\Menus\Http\Controllers\Destroy;
-use LaravelEnso\Menus\Http\Controllers\Edit;
-use LaravelEnso\Menus\Http\Controllers\ExportExcel;
-use LaravelEnso\Menus\Http\Controllers\InitTable;
-use LaravelEnso\Menus\Http\Controllers\Organize;
-use LaravelEnso\Menus\Http\Controllers\Store;
-use LaravelEnso\Menus\Http\Controllers\TableData;
-use LaravelEnso\Menus\Http\Controllers\Update;
+use LaravelLiberu\Menus\Http\Controllers\Create;
+use LaravelLiberu\Menus\Http\Controllers\Destroy;
+use LaravelLiberu\Menus\Http\Controllers\Edit;
+use LaravelLiberu\Menus\Http\Controllers\ExportExcel;
+use LaravelLiberu\Menus\Http\Controllers\InitTable;
+use LaravelLiberu\Menus\Http\Controllers\Organize;
+use LaravelLiberu\Menus\Http\Controllers\Store;
+use LaravelLiberu\Menus\Http\Controllers\TableData;
+use LaravelLiberu\Menus\Http\Controllers\Update;
 
 Route::middleware(['api', 'auth', 'core'])
     ->prefix('api/system/menus')

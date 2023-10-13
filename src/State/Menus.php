@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Menus\State;
+namespace LaravelLiberu\Menus\State;
 
-use LaravelEnso\Core\Contracts\ProvidesState;
-use LaravelEnso\Menus\Http\Resources\Menu;
-use LaravelEnso\Menus\Services\TreeBuilder;
+use LaravelLiberu\Core\Contracts\ProvidesState;
+use LaravelLiberu\Menus\Http\Resources\Menu;
+use LaravelLiberu\Menus\Services\TreeBuilder;
 
 class Menus implements ProvidesState
 {

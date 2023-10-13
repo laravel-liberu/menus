@@ -1,15 +1,15 @@
 <?php
 
-namespace LaravelEnso\Menus\Models;
+namespace LaravelLiberu\Menus\Models;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Str;
-use LaravelEnso\Menus\Exceptions\Menu as Exception;
-use LaravelEnso\Permissions\Models\Permission;
-use LaravelEnso\Roles\Models\Role;
-use LaravelEnso\Tables\Traits\TableCache;
+use LaravelLiberu\Menus\Exceptions\Menu as Exception;
+use LaravelLiberu\Permissions\Models\Permission;
+use LaravelLiberu\Roles\Models\Role;
+use LaravelLiberu\Tables\Traits\TableCache;
 
 class Menu extends Model
 {

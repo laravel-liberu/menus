@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Menus\Forms\Builders;
+namespace LaravelLiberu\Menus\Forms\Builders;
 
-use LaravelEnso\Forms\Services\Form;
-use LaravelEnso\Menus\Models\Menu as Model;
-use LaravelEnso\Permissions\Models\Permission;
+use LaravelLiberu\Forms\Services\Form;
+use LaravelLiberu\Menus\Models\Menu as Model;
+use LaravelLiberu\Permissions\Models\Permission;
 
 class Menu
 {

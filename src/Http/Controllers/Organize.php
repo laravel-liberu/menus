@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Menus\Http\Controllers;
+namespace LaravelLiberu\Menus\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
-use LaravelEnso\Menus\Services\Organizer;
+use LaravelLiberu\Menus\Services\Organizer;
 
 class Organize extends Controller
 {

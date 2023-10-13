@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Menus\Database\Factories;
+namespace LaravelLiberu\Menus\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use LaravelEnso\Menus\Models\Menu;
-use LaravelEnso\Permissions\Models\Permission;
+use LaravelLiberu\Menus\Models\Menu;
+use LaravelLiberu\Permissions\Models\Permission;
 
 class MenuFactory extends Factory
 {

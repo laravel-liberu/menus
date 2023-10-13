@@ -29,14 +29,14 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\Menus\\": "src/",
-            "LaravelEnso\\Menus\\Database\\Factories\\": "database/factories/"
+            "LaravelLiberu\\Menus\\": "src/",
+            "LaravelLiberu\\Menus\\Database\\Factories\\": "database/factories/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\Menus\\AppServiceProvider"
+                "LaravelLiberu\\Menus\\AppServiceProvider"
             ],
             "aliases": {}
         }

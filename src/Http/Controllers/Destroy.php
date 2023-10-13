@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Menus\Http\Controllers;
+namespace LaravelLiberu\Menus\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Menus\Models\Menu;
+use LaravelLiberu\Menus\Models\Menu;
 
 class Destroy extends Controller
 {
